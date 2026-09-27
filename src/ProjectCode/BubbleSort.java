@@ -1,3 +1,5 @@
+package ProjectCode;
+
 import java.util.Scanner;
 
 public class BubbleSort {

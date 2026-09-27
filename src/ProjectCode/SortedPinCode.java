@@ -1,3 +1,5 @@
+package ProjectCode;
+
 public class SortedPinCode {
     public static void selectionSort(int arr[]){
         int minIdx=-1;
